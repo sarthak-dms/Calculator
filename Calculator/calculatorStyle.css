@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+#calcBody{
+    height: 400px;
+    width: 250px;
+    background-color: whitesmoke;
+    margin-top: 12vh;
+    margin-left: 40vw;
+
+    /* margin: auto; */
+    border-radius: 8px;
+    border: 2px;
+    border-style: solid; 
+    border-color: black;
+}
+#display{
+    width: 250px;
+    height: 80px;
+    background-color: grey;
+    border-radius: 5px;  
+    border: 1px;
+    border-style: solid;  
+}
+#keys{
+    height: 320px;
+    width: 250px;
+    background-color: cyan;
+    /* border-radius: 10px; */
+}
+
+#mainTable{
+    height: 320px;
+    width: 250px;
+    border: 2px;
+    border-style: solid;
+}
+
+.boxes{
+    width: 64.5px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 4px;
+    text-align: center;
+
+}
+/* .specialBoxes{
+    background-color: red;
+    width: 64.5px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 4px;
+    text-align: center;
+
+} */
